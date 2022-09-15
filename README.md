@@ -25,6 +25,8 @@ I made this project just for fun, it allows you to create nice and simple GitHub
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+
+
 - 🔭 I’m currently working on Redux project 
 - 🌱 I’m currently learning React Redux 
 - 👯 I’m looking to collaborate on github 
